@@ -1,5 +1,9 @@
 # simple-blackjack
 
+## Requirements
+
+Node 12 or later is installed and npm is on the PATH
+
 ## Project setup
 ```
 npm install
