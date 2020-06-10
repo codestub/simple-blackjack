@@ -2,28 +2,19 @@
 
 ## Project setup
 ```
-yarn install
+npm install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-yarn serve
+npm run serve // Runs on http://localhost:8080
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
+### Open page
+
+http://localhost:8080
 
 ### Run your unit tests
 ```
-yarn test:unit
+npm run test:unit
 ```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
